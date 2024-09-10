@@ -8,5 +8,5 @@ def missingNumber(nums):
             break
     else:
         return len(nums)
-nums = [1]
+nums = [1,2,3,4]
 print(missingNumber(nums))
